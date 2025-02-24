@@ -1,20 +1,21 @@
 import argparse
-import text
+import text.vietnamese
 from utils import load_filepaths_and_text
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--out_extension", default="cleaned")
-    parser.add_argument("--text_index", default=1, type=int)
+    parser.add_argument("--text_index", default=2, type=int)
     parser.add_argument(
         "--filelists",
         nargs="+",
         default=[
-            "filelists/ljs_audio_text_val_filelist.txt",
-            "filelists/ljs_audio_text_test_filelist.txt",
+            "filelists/multi_filelist_test.txt",
+            "filelists/multi_filelist_train.txt",
+            "filelists/multi_filelist_val.txt"
         ],
     )
-    parser.add_argument("--text_cleaners", nargs="+", default=["english_cleaners2"])
+    # parser.add_argument("--text_cleaners", nargs="+", default=["english_cleaners2"])
 
     args = parser.parse_args()
 
@@ -23,7 +24,7 @@ if __name__ == "__main__":
         filepaths_and_text = load_filepaths_and_text(filelist)
         for i in range(len(filepaths_and_text)):
             original_text = filepaths_and_text[i][args.text_index]
-            cleaned_text = text._clean_text(original_text, args.text_cleaners)
+            cleaned_text = text._clean_text(original_text)
             filepaths_and_text[i][args.text_index] = cleaned_text
 
         new_filelist = filelist + "." + args.out_extension

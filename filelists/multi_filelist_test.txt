@@ -1,0 +1,470 @@
+/home/osint/speech/data-multispeaker/PhePhim_2/819450.wav|56|Teaser đã tiết lộ cho chúng ta những gì về nội dung phim, hãy cùng với phim chúng mình tìm hiểu hôm nay nhé.
+/home/osint/speech/data-multispeaker/nguoithanhcong1991_1/178921.wav|49|Việc sắp nhập theo chiều ngang hướng đi kèm với việc thay đổi thương hiệu, điều chỉnh chiến lược kinh doanh, chính sách công ty và có thể là tái cơ cấu lại các cơ sở sản xuất.
+/home/osint/speech/data-multispeaker/CDTeam/581744.wav|12|Tại đây, các bên tham gia đồng ý tạm thời chia Việt Nam thành hai nửa ở vĩ tuyến 17.
+/home/osint/speech/data-multispeaker/bumcn/254644.wav|9|Loại màu đỏ thì không có chức năng gì.
+/home/osint/speech/data-multispeaker/HocvienBovaGau_2/551230.wav|39|Năm 1943, trong một trận thả bom của quân đồng minh, gia đình Dachler phải đi sơ tán vào hầm tránh bom.
+/home/osint/speech/data-multispeaker/LamVlog/737299.wav|42|Bí này anh mua tháng này là 176 ngàn một trái.
+/home/osint/speech/data-multispeaker/tranquochuywecommit/658162.wav|75|Còn bây giờ tôi giả sử tôi góp 1 câu lệnh mà tôi thiếu chiếc from này.
+/home/osint/speech/data-multispeaker/vietnh1009/733978.wav|80|Thế còn đối với giải pháp thứ hai, Sport Analytics, đối tượng mà bọn mình cần tập trung nhiều hơn đó là các cầu thủ.
+/home/osint/speech/data-multispeaker/SoiSangBrightSideVietnamese_3/176047.wav|63|Không, nghiên cứu gần đây đã cho thấy con người có thể phát hiện ra hơn 1.000 tỷ mùi.
+/home/osint/speech/data-multispeaker/Xanh24h/019903.wav|91|Trải qua nhiều cuộc thử nghiệm, cuối cùng sau 2 năm, chị đã thành công trong cách chế biến thức ăn thảo dược, đạt hiệu quả lên men cao nhất.
+/home/osint/speech/data-multispeaker/HocvienBovaGau_0/279895.wav|37|Năm 2021, từ một câu lạc bộ đứng trước bờ vực phá sản vì nợ nằm vào bê bối tài chính.
+/home/osint/speech/data-multispeaker/W2WHorror_1/521794.wav|87|Ngài còn sở hữu quyền năng nhìn thấu tam kiếp, trả lời mọi câu hỏi từ quá khứ, hiện tại cho tới tương lai của kẻ triệu hồi.
+/home/osint/speech/data-multispeaker/ThaiNhiTV/739123.wav|69|Các bạn nhìn nè hông màu sắc rất là đẹp luôn.
+/home/osint/speech/data-multispeaker/HocEnglishOnline/601972.wav|36|Visit nghĩa rằng là đi thăm.
+/home/osint/speech/data-multispeaker/CosmicWriter/885324.wav|16|Sau một cái hành trình làm nội dung thì mình đã tạo dựng được thêm những cái mối quan hệ mới.
+/home/osint/speech/data-multispeaker/duyluandethuong/877208.wav|25|Những bạn nào mà đã mua Galaxy S24 Ultra rồi.
+/home/osint/speech/data-multispeaker/duythanhish/327505.wav|26|Nhưng mà cái kiến thức về tài chính của mình, thì thực sự là nó gần như là bằng không.
+/home/osint/speech/data-multispeaker/vais1000/900688.wav|93|bên trong nấm linh chi việt nam có màu nâu sậm, nấm ngoại màu vàng nhạc
+/home/osint/speech/data-multispeaker/VuTruNguyenThuy/708632.wav|83|Sau vụ cháy lịch sử này, các nhà chức trách đã điều tra nguyên nhân và ngay lập tức xác định ra thủ phạm là Herostratus, kẻ đốt đền đi vào lịch sử nhân loại.
+/home/osint/speech/data-multispeaker/kenhCoVan/371806.wav|40|Vân xin cảm ơn và mời quý thính giả cùng nghe chuyện.
+/home/osint/speech/data-multispeaker/HocvienBovaGau_0/377506.wav|37|Của Barca mà các bạn đã thấy.
+/home/osint/speech/data-multispeaker/DongMauViet/472692.wav|22|Đây là một chế độ bù nhìn do Pháp lập nên trong thời kỳ kháng Pháp do cựu Hoàng Bảo Đại, người đã mất ngôi hoàng đế sau cách mạng tháng 8 làm quốc trưởng.
+/home/osint/speech/data-multispeaker/txtofficial8798/516077.wav|78|Vừa đẹp mà vừa hiệu ứng nhiều.
+/home/osint/speech/data-multispeaker/cungmaivaobep/742645.wav|19|Ở đây Mai có một tô cơm nguội tầm khoảng 400g.
+/home/osint/speech/data-multispeaker/HocvienBovaGau_1/681668.wav|38|Thậm chí có thời điểm, Levi Strauss phải tuyển gần 1.000 thợ may chỉ để chuyên cắt máy quần bò.
+/home/osint/speech/data-multispeaker/thieunhitv3630/381364.wav|71|Nhưng đúng lúc bác gấu đi ngang qua, thấy vậy liền tống cho sói một đấm, để cứu thỏ.
+/home/osint/speech/data-multispeaker/HocvienBovaGau_2/748862.wav|39|Và phép màu đã xảy ra.
+/home/osint/speech/data-multispeaker/SUCKHOETAMSINH/631993.wav|64|Nếu các bạn gói đòn nửa ký thì các bạn sẽ gói được 3 đòn nha.
+/home/osint/speech/data-multispeaker/PhePhim_0/414131.wav|54|Lúc này, Will đã nhớ ra tay của Abigail chui vào bụng của mình bằng cách nào.
+/home/osint/speech/data-multispeaker/caikinhdi_vn_0/092893.wav|10|Khi sự nổi loạn của Isabella ngày càng trở nên nghiêm trọng hơn, mẹ cô cảm thấy sợ hãi trước hành vi của con gái mình.
+/home/osint/speech/data-multispeaker/KienThucQuanSu/332873.wav|41|Lấp tàu Borei là một trong hàng loạt dự án trọng điểm quan trọng nhất mà Cục Thiết kế Rubin thực hiện cho chính phủ.
+/home/osint/speech/data-multispeaker/RiwayLegal/663913.wav|57|Để chúng ta xem, review trước khi ký.
+/home/osint/speech/data-multispeaker/meGAME_Official/262788.wav|44|Tuy nhiên trước đó trung tâm này sở hữu một thiết kế hoàn toàn khác so với phiên bản hiện tại của game.
+/home/osint/speech/data-multispeaker/tamhonanuong_0/085978.wav|67|Vì biết em công mà.
+/home/osint/speech/data-multispeaker/txtofficial8798/692692.wav|78|Không là cái miệng nó còn dài thêm xíu nữa.
+/home/osint/speech/data-multispeaker/meGAME_Official/684652.wav|44|Sang đến phần 2 thì người mẹ chạm mặt những con quái vật còn lại, kẻ nham hiểm ở nhà trẻ chính là con quái vật Benben, linh vật của nhà trẻ.
+/home/osint/speech/data-multispeaker/RuaNgao/162681.wav|58|Như cái bụi gỗ nằm vậy.
+/home/osint/speech/data-multispeaker/LamVlog/719777.wav|42|Tập lộn lục biêu hết như em 1 triệu 6 anh ơi.
+/home/osint/speech/data-multispeaker/HappyHidari/327499.wav|31|Tiếp xúc giữa cái sốt đỏ... với lại những cái trái cây.
+/home/osint/speech/data-multispeaker/AnhBanThan/164089.wav|3|Ở đây mình sẽ lấy 3 cái lòng đỏ trứng gà để làm sốt.
+/home/osint/speech/data-multispeaker/AnimeRewind.Official/174668.wav|4|Phần kết giới cũng có vai trò quan trọng trong trận chiến, khi nó có chức năng giam giữ đối thủ ở bên trong phần lãnh địa.
+/home/osint/speech/data-multispeaker/caikinhdi_vn_1/495411.wav|11|Kể về một người phụ nữ sống với thân phận nạn nhân mà cô ta sát hại.
+/home/osint/speech/data-multispeaker/W2WAnime_0/199410.wav|84|Sau đó, chúng tớ còn nhảy bên đóng lửa cơ, và rồi tớ chạy đi mất và vẫn rất là ngượng khi ở bên cậu ấy.
+/home/osint/speech/data-multispeaker/female/005805.wav|92|một ngày nào đó chú lợn sẽ giúp cho kinh tế gia đình bác em khá lên
+/home/osint/speech/data-multispeaker/PhanTichGame/573700.wav|53|Và nói thêm rằng cái chết của cô ta tại tàu điện ngầm được xác định là một tai nạn.
+/home/osint/speech/data-multispeaker/W2WHorror_0/512636.wav|86|Thế nhưng, khi cảnh sát yêu cầu cô cho xem hình đứa con trai, thì cô lại không thể nào tìm thấy sự xuất hiện của đứa bé trong những tấm hình chụp, dù là gần đây nhất.
+/home/osint/speech/data-multispeaker/VuTruNguyenThuy/312909.wav|83|Rất có thể, những gì chúng ta đang thấy là một bước ngoạt màng tình quyết định, làm thay đổi lịch sử một lần và mãi mãi.
+/home/osint/speech/data-multispeaker/HIEUROTRONG5PHUT/869719.wav|34|Bộ trưởng Tài chính Đức Christian Lehner đã phát biểu trước đám đông biểu tình và các lãnh đạo Liên minh Cộng quyền Đức đã mời những người đứng đầu nhóm biểu tình tới đàm phán.
+/home/osint/speech/data-multispeaker/cosu_0/337459.wav|17|Chúng kể về một câu chuyện liên mạch, nơi mà các nhân vật không hề được tiết lộ tên thật của mình.
+/home/osint/speech/data-multispeaker/gc.gamelab_0/689017.wav|28|Bản thân mình thì cảm thấy drama này khá là nhạt nhẽo và nói thật là ai nghĩ ra được cũng rất là rảnh.
+/home/osint/speech/data-multispeaker/Xanh24h/745942.wav|91|Xu hướng sống sạch, sống khỏe đang ngày càng được ưa chuộng, kéo theo đó là nhu cầu tiêu thụ trái cây cũng tăng cao.
+/home/osint/speech/data-multispeaker/tranquochuywecommit/358875.wav|75|Ok, anh em sẽ thấy được toàn cảnh các bước đi từ bước đầu tiên cho đến bước mà hệ thống nó thiết kế ra.
+/home/osint/speech/data-multispeaker/caikinhdi_vn_0/469382.wav|10|Tuy nhiên, khi nhìn về mặt logic, sự việc này có rất nhiều điều kỳ lạ.
+/home/osint/speech/data-multispeaker/ThanhPahm/546562.wav|70|Chỉ có điều là lúc này Van Gogh đã ở trong trại tâm thần.
+/home/osint/speech/data-multispeaker/gc.gamelab_1/433920.wav|29|Nhờ vào những khả năng trên, Hanya hầu hết có thể kết hợp với bất kỳ DBS nào.
+/home/osint/speech/data-multispeaker/AnhBanThan/412965.wav|3|Thì đây là một cái món rất là đặc trưng của người miền Tây.
+/home/osint/speech/data-multispeaker/W2WAnime_0/885220.wav|84|Một phân phách dành cho các con dân, thì cô nàng này có chiều cao ấn tượng nhất nhóm, đó là mét 58, trong khi hai thành viên còn lại chỉ dừng lại ở 3 mét bẻ đôi.
+/home/osint/speech/data-multispeaker/CosmicWriter/289477.wav|16|Đây cũng sẽ là điều làm nên rất nhiều sự khác biệt giữa những người thành công và những người có cuộc sống cứ dậm chân tại chỗ.
+/home/osint/speech/data-multispeaker/nguoithanhcong1991_0/538324.wav|48|Để hiểu rõ hơn, chúng ta có thể xem xét, tóm tắt các dự báo kinh tế do Fed công bố hàng quý.
+/home/osint/speech/data-multispeaker/TintucBitcoin247/699380.wav|73|Điều này có nghĩa là tâm hình bán đang chiếm ưu thế trong số các nhà đầu tư Mỹ và Hàn Quốc ở thời điểm hiện tại.
+/home/osint/speech/data-multispeaker/AnhBanThan/819141.wav|3|Và mình sẽ đặt cái máy xuống đây để mình xem là nó có hoạt động hay không.
+/home/osint/speech/data-multispeaker/ThaiNhiTV/198421.wav|69|Thì mình chuẩn bị là 350ml nước mắm, có cái độ đạm là 20 độ.
+/home/osint/speech/data-multispeaker/VuiVe/475450.wav|82|Kiêng nước ngọt, kiêng cà phê, kiêng bia, rượu, thuốc lá.
+/home/osint/speech/data-multispeaker/SoiSangBrightSideVietnamese_2/493506.wav|62|Móc áo khoang bằng gỗ không phải chỉ để cho đẹp mắt thôi đâu.
+/home/osint/speech/data-multispeaker/thieunhitv3630/842042.wav|71|Bác nông dân nghe lại có lý hơn, lại chỉnh sửa theo.
+/home/osint/speech/data-multispeaker/CuThongThai/804073.wav|20|Thì họ trả tiền cho chúng ta không có nhiều.
+/home/osint/speech/data-multispeaker/caikinhdi_vn_1/730407.wav|11|Nhưng không có hãng hàng không tư nhân nào chịu chở Luca.
+/home/osint/speech/data-multispeaker/HIEUROTRONG5PHUT/558298.wav|34|Nó chỉ cắt vùng biển Vịnh Grand làm hai phần, phần ngoài khơi Vịnh Grand và phần phía trong là phá nước lợ Vistula.
+/home/osint/speech/data-multispeaker/W2WHorror_1/733158.wav|87|Lúc này mình kiểu, sao lúc đầu không nói vậy đi má?
+/home/osint/speech/data-multispeaker/SukiesKitchen/599777.wav|65|Mình nghĩ là dạo này bánh mochi chấm kem đang hot, thì các bạn có thể tận dụng nguyên liệu làm món bánh này.
+/home/osint/speech/data-multispeaker/bumcn/408928.wav|9|Bạn có nhận ra cameraman PewV lần này rất khác lạ không?
+/home/osint/speech/data-multispeaker/TIN3PHUT/129221.wav|72|Người con trai đầu của cụ năm nay cũng đã hơn 90 tuổi.
+/home/osint/speech/data-multispeaker/TuanTienTi2911/049045.wav|76|Thế nhưng mà không, Tết này ông mang chó mèo đi gửi nhá.
+/home/osint/speech/data-multispeaker/AnimeRewind.Official/203248.wav|4|Vì chúng ta vẫn còn đó một nhân vật đã biến mất cùng cậu mà chưa hề xuất hiện.
+/home/osint/speech/data-multispeaker/W2WAnime_0/861431.wav|84|Nếu cô trả lời là có, thì Kuchisake Onna sẽ kéo mạng che mạng của mình xuống và hỏi lại, thế giờ tôi có xinh đẹp hay không?
+/home/osint/speech/data-multispeaker/5PhutCrypto_0/303101.wav|0|Và đừng quên là hãy luôn tự mình kiểm chứng các nội dung được nghe nhé.
+/home/osint/speech/data-multispeaker/W2WAnime_1/372268.wav|85|Cậu bối rối nói cảm ơn bạn mình.
+/home/osint/speech/data-multispeaker/bumcn/237912.wav|9|Chả hiểu đồng đội của mình làm gì mà lâu vậy.
+/home/osint/speech/data-multispeaker/MensBay/818816.wav|45|Ok, anh em thấy clip ngày hôm nay như thế nào?
+/home/osint/speech/data-multispeaker/female/005653.wav|92|những người lịch sự nhất là những người tình tồi tệ nhất
+/home/osint/speech/data-multispeaker/Web5Ngay/608761.wav|90|Và đó là tất cả những gì mà tôi muốn truyền tạo đến các bạn.
+/home/osint/speech/data-multispeaker/MensBay/858234.wav|45|Anh em có những cái mục tiêu như là khai pháp, như là tán crush của anh em như thế nào rồi?
+/home/osint/speech/data-multispeaker/caikinhdi_vn_1/490789.wav|11|Vì những luận điểm trái chiều này, nhiều phiên tòa đã được tổ chức trong vài tháng trời nhưng không dễ dàng đi tới phán quyết.
+/home/osint/speech/data-multispeaker/CDTeam/090265.wav|12|Các thành phố ít người biết đến 20 năm trước giờ lên những đô thị rộng lớn.
+/home/osint/speech/data-multispeaker/SukiesKitchen/664298.wav|65|Các loại rượu này để tăng hương vị cho nhân bánh.
+/home/osint/speech/data-multispeaker/altonghop/035738.wav|2|Do mong muốn được gặp Rose, Ata đã tấn công con người để chiếm lấy hình dạng nhưng ghép mãi không biết sao cho đẹp.
+/home/osint/speech/data-multispeaker/sunhuynpodcast/569825.wav|66|Bạn bỗng nhiên trở thành một kẻ thừa thại.
+/home/osint/speech/data-multispeaker/BroNub/604420.wav|8|Vì cái chỗ farm này đang dính vào trăng có slam, thì vậy tỷ lệ cáo xuất hiện sẽ giảm đi rất nhiều.
+/home/osint/speech/data-multispeaker/SUCKHOETAMSINH/816800.wav|64|Bột ngọt thì mình sẽ cho vào đây cuối cùng nha.
+/home/osint/speech/data-multispeaker/Xanh24h/548527.wav|91|Sản phẩm này không chỉ thuận tiện để bán lẻ mà còn rất thích hợp cho những khách sạn, homestay nghỉ dưỡng tại các địa điểm du lịch nổi tiếng.
+/home/osint/speech/data-multispeaker/ntcanima/664429.wav|51|Khi mà Napoleon tới Váksava, thuộc phổ, ông đã có một mối tình với một nữ quý tộc người Ba Lan yêu nước.
+/home/osint/speech/data-multispeaker/duongfg/609347.wav|24|Đây thì giống như là một camera của một cái tàu theo dõi sao hỏa thì phải.
+/home/osint/speech/data-multispeaker/chanthienmybachnien/055487.wav|13|Tim là mệnh hỏa, là mẹ của đất và sinh ra tì là thổ.
+/home/osint/speech/data-multispeaker/vanhkhuyenle/797284.wav|79|Sau khi mình sơ chế xong á thì đậu hủ của mình lúc này nó cũng được luôn rồi đó.
+/home/osint/speech/data-multispeaker/PhePhim_0/038825.wav|54|Vì ý tin Will sẽ không thể tìm thấy chứng cứ kết tội mình.
+/home/osint/speech/data-multispeaker/W2WHorror_1/814058.wav|87|Vào năm 2017, đạo diễn Xavier James đã cho ra mắt bộ phim The Crucifixion dựa trên một sự kiện có thật.
+/home/osint/speech/data-multispeaker/vanhkhuyenle/089254.wav|79|Nếu mình để cho bột chín quá thì chút nữa nó dai mình ép không được.
+/home/osint/speech/data-multispeaker/bumcn/613803.wav|9|Lucky hoàn toàn dự đoán được tình huống xấu này.
+/home/osint/speech/data-multispeaker/battlecry.khampha/141531.wav|6|Và đây cũng là nỗi lo của rất nhiều nước khi thấy các nước khác đạt được những tiến mộ công nghệ vũ trụ.
+/home/osint/speech/data-multispeaker/TULEMIENTAY/172072.wav|77|Và mình dớt ra liền chứ mình không có ngâm ở trong đó nha.
+/home/osint/speech/data-multispeaker/Web5Ngay/230565.wav|90|Từng con chữ bằng gõ ra nó có liên kết, nó có một ý nghĩa, chứ không phải là làm mà không hiểu chuyện gì đang xảy ra.
+/home/osint/speech/data-multispeaker/Nhantaidaiviet/025961.wav|50|Mới đóng được vài hào tiền cọc. Hôm nay con tới tìm mới biết.
+/home/osint/speech/data-multispeaker/DongMauViet/352906.wav|22|Mấy bạn ở Sài Gòn thì khẳng định mình là sứ sở văn minh, là hòn ngọc viện đông.
+/home/osint/speech/data-multispeaker/TIN3PHUT/437239.wav|72|Nhìn thấy em gái nứt nở, người chị lại giống như những ngày thơ bé, đưa tay lên để mà lau đi những giọt nước mắt đang lan dài trên má của người em.
+/home/osint/speech/data-multispeaker/HIEUROTRONG5PHUT/137438.wav|35|Ông Putin cũng nhiều lần khẳng định Nga sẵn sàng đàm phán với Ukraine, Mỹ và châu Âu về tương lai của Kiev dựa trên lợi ích quốc gia của Moscow.
+/home/osint/speech/data-multispeaker/PhanTichGame/789226.wav|53|Đến đây cũng là kết thúc cho chapter 1 và mình sẽ giải thích nó một chút.
+/home/osint/speech/data-multispeaker/gc.gamelab_0/282424.wav|28|Để up được thủy thần lên level 90, bạn sẽ cần phải có nguyên liệu bồi dưỡng nhân vật đến từ một con boss thế giới và là một loại boss đặc sản ở Fontaine mới.
+/home/osint/speech/data-multispeaker/ntcanima/367529.wav|51|Nên chúng đã cố lôi kéo Việt Nam về phía mình, nhưng thất bại.
+/home/osint/speech/data-multispeaker/DongMauViet/553646.wav|22|Nguyễn Trí Vịnh luôn có cảm giác bà đã chết ở trong lòng cùng với cái ngày ba qua đời.
+/home/osint/speech/data-multispeaker/Web5Ngay/848612.wav|90|Thì thật ra rất đơn giản thôi.
+/home/osint/speech/data-multispeaker/duyluandethuong/428793.wav|25|Thì các bạn có thể xem lại các cái video mà mình từng chia sẻ về từng cái dòng.
+/home/osint/speech/data-multispeaker/NgamRadio/362056.wav|47|Như bạn có thể thấy, thật khó để tưởng tượng.
+/home/osint/speech/data-multispeaker/tamhonanuong_1/522890.wav|68|Nên nhất quyết muốn bố mẹ sinh thêm em nữa, và buồn cười chính mình lại là người đốc thuốc và quyết tâm với điều đó nhất.
+/home/osint/speech/data-multispeaker/kenhCoVan/595291.wav|40|Nhưng Phượng chỉ có nước thôi.
+/home/osint/speech/data-multispeaker/chauanhchao/250703.wav|14|Đây là burger của Five Guys nè mọi người.
+/home/osint/speech/data-multispeaker/RiwayLegal/438798.wav|57|Thì như vậy thì sẽ rất là khó để chứng minh về cái chi phí đầu vào khi mà khấu trừ thuế.
+/home/osint/speech/data-multispeaker/ducisreal/346236.wav|23|Tối, thay quần áo, rồi bắt đầu ca làm vào lúc 8 giờ.
+/home/osint/speech/data-multispeaker/hieu/798752.wav|33|Nói vậy thì nói làm gì.
+/home/osint/speech/data-multispeaker/NTNVlogsNguyenThanhNam/731087.wav|52|Nó còn lăn đến bao giờ lăn 500.000.
+/home/osint/speech/data-multispeaker/nguoithanhcong1991_0/723291.wav|48|Đừng quên nhấn nút đăng ký bên dưới để ủng hộ nhóm nhé!
+/home/osint/speech/data-multispeaker/MeovatcuocsongLNV/085165.wav|46|Các bạn chờ cho nước nguội.
+/home/osint/speech/data-multispeaker/MangoVid/057551.wav|43|Món này ăn lúc còn nóng sẽ rất ngon, do đó trong lúc làm, mỗi khi chiên được cái nào là chúng tôi sẽ ăn ngay cái đó.
+/home/osint/speech/data-multispeaker/duythanhish/394324.wav|26|Lại còn bị một cái nữa là thầy giáo lại còn nói là.
+/home/osint/speech/data-multispeaker/altonghop/072550.wav|2|Ông ấy cho rằng họ vẫn chưa thể thoát khỏi sự trả thù khi cướp đi thành quả đế đời của ông ta.
+/home/osint/speech/data-multispeaker/HocvienBovaGau_1/565593.wav|38|Còn chân chờ gì nữa mà không bấm vào link mở tài khoản dưới phần mô tả nhờ?
+/home/osint/speech/data-multispeaker/vanhkhuyenle/584361.wav|79|Trong chảo là 800ml nước.
+/home/osint/speech/data-multispeaker/CuThongThai/314807.wav|20|Hay là mô hình cho vay dựa vào bất động sản.
+/home/osint/speech/data-multispeaker/HIEUROTRONG5PHUT/126953.wav|34|Xin chào và chào mừng các bạn đến với video cập nhật chiến sự Ukraine trực tiếp trên bản đồ chiều thứ 2 ngày 15 tháng 1.
+/home/osint/speech/data-multispeaker/HocEnglishOnline/519074.wav|36|Các bạn thấy người bản xứ dùng, và các bạn dùng từ từ sẽ quen thay.
+/home/osint/speech/data-multispeaker/gc.gamelab_1/674613.wav|29|Thôi, quay lại vấn đề nào.
+/home/osint/speech/data-multispeaker/txtofficial8798/501451.wav|78|Cái cục gì?
+/home/osint/speech/data-multispeaker/haunauday/255597.wav|32|Nhưng cũng có thể sự tự ti lại đến từ chính bản thân của chúng ta.
+/home/osint/speech/data-multispeaker/ThaiNhiTV/765924.wav|69|Khi mà nấu nước lèo thì cái giai đoạn đầu mà nó sôi thì các bạn nhớ bớt bọt.
+/home/osint/speech/data-multispeaker/haunauday/854572.wav|32|Ông dành phần lớn thời gian trong lớp để nhìn chằm chằm vào không chung, suy nghĩ về bất cứ điều gì ngoại trừ chủ đề đang được dạy.
+/home/osint/speech/data-multispeaker/RuaNgao/333055.wav|58|Cây này vừa nhiều đạn này.
+/home/osint/speech/data-multispeaker/MangoVid/778635.wav|43|Ta sẽ để chúng ở đây và đi chuẩn bị nước cốt để ăn với loại bánh này.
+/home/osint/speech/data-multispeaker/SoiSangBrightSideVietnamese_0/652899.wav|60|Câu hỏi nên là gì để cứu mạng anh ấy?
+/home/osint/speech/data-multispeaker/betterversionvn/716010.wav|7|Cuối cùng là triết lý sống để đối mặt với những mâu thuẫn lớn nhất của con người hiện đại.
+/home/osint/speech/data-multispeaker/SoiSangBrightSideVietnamese_1/551529.wav|61|Chúng hoành hành ở nam bán cầu của hành tinh đỏ, đặc biệt là vào mùa hè.
+/home/osint/speech/data-multispeaker/elroydevops/792141.wav|27|À, thế nhưng mà cái mục đích mà mình muốn làm menu như vậy, tức là chỉ có người nào có đủ quyền để xác nhận.
+/home/osint/speech/data-multispeaker/tamhonanuong_1/762426.wav|68|Chồng chị có chân mà, anh cứ tìm tới em chứ em đâu có cướp vật gì đâu.
+/home/osint/speech/data-multispeaker/DongMauViet/519431.wav|22|Khi chú chó Phèn băng qua mưa đạn để đưa lựu đạn thành công cho Võ Tòng, giúp Võ Tòng hạ sát nhiều tên địch, rồi Phèn và Võ Tòng đều hy sinh.
+/home/osint/speech/data-multispeaker/caikinhdi_vn_1/558194.wav|11|Trong khi vùng nông thôn ship là một xã hội theo chế độ mẫu hệ mạnh mẽ, với người bà là người có quyền tối cao trong gia đình.
+/home/osint/speech/data-multispeaker/HocvienBovaGau_1/231817.wav|38|Thì nhận được câu trả lời như xét đánh ngang tay.
+/home/osint/speech/data-multispeaker/HocvienBovaGau_0/068344.wav|37|Mỗi con ông thay đổi một chút cho nó khác nhau.
+/home/osint/speech/data-multispeaker/hieu/325474.wav|33|Từ là cái cách để mà thoát ra khỏi nợ nần như thế nào, rồi từng bước tích lũy ra sau, và xa dần hơn những cái bước đầu tư như thế này.
+/home/osint/speech/data-multispeaker/CuThongThai/246518.wav|20|Ở Việt Nam thì chúng ta có nhà máy in tiền quốc gia.
+/home/osint/speech/data-multispeaker/cosu_0/513051.wav|17|Nếu cứ tiếp tục làm vậy, anh ta thậm chí còn trở nên khó chịu, sau đó là hoảng loạn câu cứu vì nghĩ rằng chúng ta là một tên stalker.
+/home/osint/speech/data-multispeaker/kenhCoVan/194409.wav|40|Vội dọn bàn đèn và gãy bã điếu cho chóng.
+/home/osint/speech/data-multispeaker/MangoVid/810481.wav|43|Có lẽ mức ngọt như thế là phù hợp và tốt hơn cho sức khỏe.
+/home/osint/speech/data-multispeaker/W2WHorror_1/392936.wav|87|Theo anh, những kẻ lạ mặt đêm hôm làng vàng nơi đồng không mông quạnh này chỉ có thể là thành viên băng cướp giống như tên Purvis mà thôi.
+/home/osint/speech/data-multispeaker/chauanhchao/446648.wav|14|Có 1 viên trứng muối to cực kỳ.
+/home/osint/speech/data-multispeaker/elroydevops/022352.wav|27|Vậy ở đây có một số lưu ý mà bạn cần phải biết.
+/home/osint/speech/data-multispeaker/W2WHorror_0/196593.wav|86|Stormy Norman là ai? Không ai khác chính là người dự báo thời tiết làm việc cùng DJ Dan trong studio được giới thiệu ở đầu phim.
+/home/osint/speech/data-multispeaker/VuTruNguyenThuy/850233.wav|83|Nhưng các sinh vật bay vọt lên vào một đám mây kinh tờ.
+/home/osint/speech/data-multispeaker/vanhkhuyenle/421328.wav|79|Mình nên đậy để cho sáng mai bánh nó vẫn mềm ngon đó.
+/home/osint/speech/data-multispeaker/tranquochuywecommit/627664.wav|75|Cái file này nó giống như là cái luật của một ngôi nhà.
+/home/osint/speech/data-multispeaker/SachBiQuyetThanhCong/247120.wav|59|À một tầm nhìn đúng chính là thế.
+/home/osint/speech/data-multispeaker/HocvienBovaGau_2/058544.wav|39|Vậy là Asa chỉ còn một cách, mua chuộc nhà làm luật để được ưu tiên nhập lá Coca, hay còn gọi là hối lộ.
+/home/osint/speech/data-multispeaker/PhanTichGame/849910.wav|53|Bùa lỗ bang là một loại bùa có nhiều công dụng.
+/home/osint/speech/data-multispeaker/CoBaBinhDuong/338229.wav|15|Tiếp theo đung sôi nước, rồi mình trụng 2 gối mì nha.
+/home/osint/speech/data-multispeaker/hieu/765804.wav|33|Đi đâu chúng ta cũng thanh toán được.
+/home/osint/speech/data-multispeaker/sunhuynpodcast/177305.wav|66|Nó cũng đã là quá đủ rồi.
+/home/osint/speech/data-multispeaker/HIEUROTRONG5PHUT/496856.wav|35|Có vẻ như tình thế hiện tại đang không quá khả thi để Nga mở chiến dịch đánh vào Simkivka.
+/home/osint/speech/data-multispeaker/SoiSangBrightSideVietnamese_2/308773.wav|62|Danica nói rằng cô ấy đã hoàn toàn khánh kiệt và cần tiền để sống.
+/home/osint/speech/data-multispeaker/RiwayLegal/744567.wav|57|Tức là cái quy trình của họ nó chưa có chủng về nguồn hàng.
+/home/osint/speech/data-multispeaker/baihoc10phut/368417.wav|5|Bạn có thể học hỏi thêm được nhiều điều từ bộ phim đó.
+/home/osint/speech/data-multispeaker/HIEUROTRONG5PHUT/383619.wav|35|Các hầm trôn sâu vào núi đang lưu trữ một lượng lớn máy bay chiến đấu và tên lửa chống hạng.
+/home/osint/speech/data-multispeaker/W2WHorror_2/693109.wav|88|Maggie ngay lập tức gọi cho người của mình thuộc cộng đồng Hilltop 2.0 hay với cái tên mới là The Bricks để đưa Jeannie trở về nhà an toàn.
+/home/osint/speech/data-multispeaker/caikinhdi_vn_0/735937.wav|10|Thế là Jeff và David, những người thân thiết nhất với Andrew, đã rời xa Y.
+/home/osint/speech/data-multispeaker/TintucBitcoin247/182846.wav|73|Michael Saylor nói, các tổ chức trình thống chưa có kênh tuyển thủ băng thông cao để đầu tư vào loại tài sản này cho đến khi có ETF spot.
+/home/osint/speech/data-multispeaker/HocEnglishOnline/210174.wav|36|Một cái lạ là người Anh bỏ cái chữ For, họ giữ cái chữ Autumn của người Pháp.
+/home/osint/speech/data-multispeaker/dannytran2375/192743.wav|21|Nó chỉ cho, prolactin, vasopressin, endorphin, hay ông có thể, thư giãn, và ngủ, để lấy lại sức, để lập lại hành động đó thôi.
+/home/osint/speech/data-multispeaker/dannytran2375/806107.wav|21|Một trong những nhà nghiên cứu siêu nổi tiếng ha.
+/home/osint/speech/data-multispeaker/LamVlog/534288.wav|42|Trứng ăn liền.
+/home/osint/speech/data-multispeaker/visaothenhipodcast/352516.wav|81|Và sau khi chết đi, người ta sẽ đi về đâu?
+/home/osint/speech/data-multispeaker/hieu/622606.wav|33|Cái cách mà nó sẽ trả lại tự do cho chúng ta như thế nào.
+/home/osint/speech/data-multispeaker/RuaNgao/126618.wav|58|Ui, rồi sao Tơ lách qua được cái vòng tròn ma thuật của mình vậy.
+/home/osint/speech/data-multispeaker/MensBay/183095.wav|45|Mà video là cái channel Men's Bay.
+/home/osint/speech/data-multispeaker/PhanTichGame/061259.wav|53|Tính lại và nhận ra mình đang trong buồng giam, Jacob bất ngờ khi biết rằng Black Iron đang trong tình trạng phong tỏa.
+/home/osint/speech/data-multispeaker/W2WHorror_0/300314.wav|86|Tuy vậy, điều mình thích nhất chính là cảm hứng tôn giáo được đội ngũ sản xuất lồng khép.
+/home/osint/speech/data-multispeaker/gc.gamelab_0/827752.wav|28|Cũng đơn giản như Genshin Impact hay Honkai Sarau, thì để có thể sở hữu các operator siêu mạnh, siêu hiếm, đều phải thông qua banner hay trong Art9 gọi là Headhunt.
+/home/osint/speech/data-multispeaker/PhePhim_0/009898.wav|54|Nhìn kỹ vào màn hình hiển thị dòng thời gian của TVA, ta không còn thấy lầm trầm những dòng thời gian khiến khung dẹt quá tải nữa mà là các nhanh rẽ đang dần biến mất.
+/home/osint/speech/data-multispeaker/5PhutCrypto_1/324407.wav|1|Mọi thứ vẫn đang trong quỹ đạo như là chút kỳ trước.
+/home/osint/speech/data-multispeaker/BroNub/514531.wav|8|Tôi với tay kéo anh ta dậy, có vẻ như với biến cố vừa rồi đã khiến anh bị đơ.
+/home/osint/speech/data-multispeaker/5PhutCrypto_1/015536.wav|1|Một năm thì các bạn cũng chỉ tích lũy được khoảng sáu trăm triệu thôi.
+/home/osint/speech/data-multispeaker/battlecry.khampha/406375.wav|6|Có một thứ mà Trung Quốc không bao giờ đuổi kịp Mỹ đó là tiếng Anh.
+/home/osint/speech/data-multispeaker/SukiesKitchen/867480.wav|65|Mình sẽ hòa một chút sữa ấm vào sữa chua, khuấy đều.
+/home/osint/speech/data-multispeaker/NgamRadio/873000.wav|47|Nơi đây luôn phải đối mặt với nguy cơ bị nhấn chìm bất cứ lúc nào.
+/home/osint/speech/data-multispeaker/nguoithanhcong1991_1/552638.wav|49|Sắp nhập doanh nghiệp có thể coi là một trong những chiến lược hiệu quả nhất để các công ty tăng lợi nhuận, mở rộng quy mô và nâng cao năng suất hoạt động.
+/home/osint/speech/data-multispeaker/vietnh1009/536805.wav|80|Hồi mình ở Việt Nam thì hầu hết là mình sẽ di chuyển chủ yếu bằng xe máy.
+/home/osint/speech/data-multispeaker/gc.gamelab_1/396136.wav|29|Mặc dù ở đó rất nhiều người, nhưng ông vẫn mục mục tin rằng chiếc Vision này là của con gái mình.
+/home/osint/speech/data-multispeaker/dannytran2375/370256.wav|21|Là ba lý do tại sao.
+/home/osint/speech/data-multispeaker/HIEUROTRONG5PHUT/337167.wav|34|Tại đây chẳng còn gì ngoài nhà ở và công trình dân sự.
+/home/osint/speech/data-multispeaker/thieunhitv3630/273152.wav|71|Còn cháu Đông, ai mà ghét cháu được.
+/home/osint/speech/data-multispeaker/duythanhish/672309.wav|26|Ví dụ như khi mình học môn quản lý danh mục đầu tư thì các bạn có thể tưởng tượng mình như kiểu là một chuyên gia tư vấn cho khách hàng về một cái danh mục mà họ mong muốn.
+/home/osint/speech/data-multispeaker/duythanhish/322474.wav|26|Nhiều bạn cho rằng các bạn đã tự làm được những điều này rồi.
+/home/osint/speech/data-multispeaker/TintucBitcoin247/351386.wav|73|Điều này có cho thấy áp lực bán đối với Bitcoin đang tăng lên.
+/home/osint/speech/data-multispeaker/txtofficial8798/789163.wav|78|Chơi tơ cũng ngon lành nè.
+/home/osint/speech/data-multispeaker/altonghop/797079.wav|2|Trong ký ức của Shiki thì chú đã cứu cậu sau lần ngất đi tại phòng thiết nghiệm.
+/home/osint/speech/data-multispeaker/HIEUROTRONG5PHUT/314051.wav|35|Iran đã tiến hành một loạt các cuộc tấn công bằng tên lửa và máy bay không người lái vào các nước láng giềng, theo đúng những gì Mỹ và Israel vẫn hay làm.
+/home/osint/speech/data-multispeaker/tamhonanuong_0/010184.wav|67|Thì một vụ tai nạn khủng khiếp xảy ra.
+/home/osint/speech/data-multispeaker/ducisreal/223735.wav|23|Trở nên mèo mó một cách khó chịu.
+/home/osint/speech/data-multispeaker/TintucBitcoin247/821256.wav|73|Nhận xét của Phó Chủ tịch được đưa ra ngay sau biên bản cuộc họp được công bố ngày hôm qua cũng có giọng điệp tương tự.
+/home/osint/speech/data-multispeaker/cosu_1/822827.wav|18|Với nhân vật thứ 6, thì đây chính là cô nhân viên Sally, người đã từng được tôi đề cập lúc trước.
+/home/osint/speech/data-multispeaker/RiwayLegal/826152.wav|57|Các bạn hay nói nôm na là nguồn hàng Quảng Châu đó.
+/home/osint/speech/data-multispeaker/W2WHorror_0/094468.wav|86|Xong, cách xây dựng chưa sâu, do thời lượng của phim điện ảnh, dẫn đến phim vẫn còn nhiều lỗ hổng, tình cảm nàm nữ chính chưa tới, twist cũng không hay.
+/home/osint/speech/data-multispeaker/sunhuynpodcast/051420.wav|66|Có rất là nhiều cách để một con người có thể thể hiện tình cảm.
+/home/osint/speech/data-multispeaker/vais1000/900899.wav|93|làng vô ngại thuộc xã ngọc lâm và xã ngọc lâm nay thuộc huyện mỹ hào
+/home/osint/speech/data-multispeaker/SoiSangBrightSideVietnamese_2/476610.wav|62|Này Kathy, nhớ quay lại trước nửa đêm nhé.
+/home/osint/speech/data-multispeaker/W2WHorror_1/427916.wav|87|Xin chào và chào mừng các bạn đã đến với kênh Way Too Weird Horror.
+/home/osint/speech/data-multispeaker/nguoithanhcong1991_0/671576.wav|48|Vào tháng 9, công ty xe tay Garbert từng huy động được 776 triệu đô, đã bị hủy niêm yết khỏi sở giao dịch chứng khoán New York do giá cổ phiếu thấp.
+/home/osint/speech/data-multispeaker/SoiSangBrightSideVietnamese_1/312288.wav|61|Bằng cách này, anh ấy sẽ bắt đầu với cơ hội 50-50 để chọn được chiếc bát có đồng tiền vàng.
+/home/osint/speech/data-multispeaker/SUCKHOETAMSINH/460405.wav|64|Và nếu mà không để được ráo nước thì nhớ lấy cái khăn sạch đó.
+/home/osint/speech/data-multispeaker/ThanhPahm/412809.wav|70|Cái acrylic chesol này nó vẫn chưa khô cho nên là chúng ta sẽ phải hát thêm một bài nữa.
+/home/osint/speech/data-multispeaker/ThanhPahm/279413.wav|70|Điều này đã đẩy người dân Nga vào cảnh khốn cùng, hàng triệu người đã chết đói.
+/home/osint/speech/data-multispeaker/duythanhish/226509.wav|26|Các bạn đều có xu hướng là lên.
+/home/osint/speech/data-multispeaker/elroydevops/611686.wav|27|Sẽ có phần Member.
+/home/osint/speech/data-multispeaker/female/005938.wav|92|đó là điều tôi nhớ nhất ở buổi phỏng vấn hôm đấy
+/home/osint/speech/data-multispeaker/ntcanima/235775.wav|51|Bị từ chối phũ, Magellan mang bộ dạng thất thể vượt biên qua Tây Ban Nha.
+/home/osint/speech/data-multispeaker/NgamRadio/198807.wav|47|Đại thể là do con người đã làm những điều sai trái thất đức.
+/home/osint/speech/data-multispeaker/duongfg/232976.wav|24|Nào, hãy cùng bắt đầu với kịch bản đại dịch đậu mùa trong game Pleasing Evil, the game nơi chúng ta gieo rác dịch bệnh và nỗi sợi cho toàn thế giới.
+/home/osint/speech/data-multispeaker/TuanTienTi2911/188515.wav|76|Mình chứng là đố ai có thể trả lời được cái vị trí đá của Phil Foden.
+/home/osint/speech/data-multispeaker/altonghop/511388.wav|2|Nhưng do sợ đối đầu với lão chồng nên chỉ còn việc cậu ta tự tay dân đến cho Inari.
+/home/osint/speech/data-multispeaker/HIEUROTRONG5PHUT/384788.wav|35|Rõ ràng, Iran đã phải rất quan tâm đến mục tiêu này thì mới có thể nã một lúc tới 4 quả tiên lửa đạn đảo tầm xa của mình.
+/home/osint/speech/data-multispeaker/cosu_1/723903.wav|18|Khỏi cần nói, thì chúng ta cũng biết kết cục sẽ xảy đến với Mai là gì.
+/home/osint/speech/data-multispeaker/hieu/681966.wav|33|Xin chào các anh chị và các bạn. Chào mừng các anh chị đến với podcast Hiếu TV.
+/home/osint/speech/data-multispeaker/PhePhim_1/516359.wav|55|Tổng thống Gerald Ford, nhưng sau đó đã xuất hiện trên trang bìa của Newsweek.
+/home/osint/speech/data-multispeaker/MeovatcuocsongLNV/104005.wav|46|Và cây sẽ không bị nấm.
+/home/osint/speech/data-multispeaker/TuanTienTi2911/400854.wav|76|Thế nhưng mà nhiều người còn khó chịu hơn khi mà nghe bản tin Tổ buồn 247 ngày hôm qua của em.
+/home/osint/speech/data-multispeaker/chauanhchao/539364.wav|14|Nhưng mà cháu vẫn còn một chút kiến thức về lịch sử nghệ thuật.
+/home/osint/speech/data-multispeaker/NgamRadio/211671.wav|47|Các thời kỳ khác nhau đã để lại những dự ngôn về tương lai để gợi mở và canh báo cho người hiện nay.
+/home/osint/speech/data-multispeaker/Web5Ngay/867759.wav|90|Nếu mà bạn trả lời là không, rồi tiêu.
+/home/osint/speech/data-multispeaker/dannytran2375/527656.wav|21|Cũng phê đấy.
+/home/osint/speech/data-multispeaker/gc.gamelab_2/870362.wav|30|Và đương nhiên rồi, Brexophone đang ngồi im không làm gì, tự nhiên bị déo tên.
+/home/osint/speech/data-multispeaker/CDTeam/058517.wav|12|Kế hoạch 5 năm lần thứ nhất tăng trưởng kinh tế đạt 8,3% trên năm.
+/home/osint/speech/data-multispeaker/LamVlog/272718.wav|42|Sang khu lớn trước.
+/home/osint/speech/data-multispeaker/5PhutCrypto_0/731261.wav|0|Điều này đồng nghĩa với việc doanh nghiệp buộc phải chấp nhận, bóp lợi nhuận lại để duy trì tính cạnh tranh.
+/home/osint/speech/data-multispeaker/meGAME_Official/081395.wav|44|Việc xây dựng gameplay kiểu đa nhân vật thế này không những giúp cho gameplay trở nên đa dạng hơn mà nó còn giúp cho nội dung game tốt hơn rất nhiều.
+/home/osint/speech/data-multispeaker/elroydevops/871473.wav|27|Cái domain này bạn không cần nhất thiết là phải có nhé.
+/home/osint/speech/data-multispeaker/MensBay/566196.wav|45|Cái kinh nghiệm thứ 2, đó chính là hãy nói chuyện với những người có kinh nghiệm trong cái ngành học đó.
+/home/osint/speech/data-multispeaker/5PhutCrypto_0/080769.wav|0|Tờ Tân Hoa Xã của Trung Quốc đã từng ví von quan hệ Việt Nam-Trung Quốc giống như một dòng sông thời gian, với một đầu nối quá khứ và một đầu hướng tới tương lai.
+/home/osint/speech/data-multispeaker/TuanTienTi2911/870933.wav|76|Trong khi rõ ràng như mình học địa lý thấy có 8 phương thôi mà.
+/home/osint/speech/data-multispeaker/SoiSangBrightSideVietnamese_3/406345.wav|63|Với những tiến bộ gần đây trong thiết kế vải vóc và hoa văn, hạt nút này mang tính năng thẩm mỹ nhiều hơn.
+/home/osint/speech/data-multispeaker/nguoithanhcong1991_0/657397.wav|48|Điều quan trọng là các khoản thanh toán bằng đô la phải chạy qua hệ thống tài chính của nước Mỹ.
+/home/osint/speech/data-multispeaker/MangoVid/294890.wav|43|Tôi sẽ tách lớp lá chuối bên ngoài rồi dùng dao cắt bánh thành những khói nhỏ ngay trên miếng lá.
+/home/osint/speech/data-multispeaker/ducisreal/485831.wav|23|Cha mẹ đưa tôi trở lại nhà của Edwin để thu dọn đống đồ đạc còn lại của mình.
+/home/osint/speech/data-multispeaker/DongMauViet/523893.wav|22|Đó có thể là sắc áo rằn ri của các binh chủng dữ dằn như nhảy dù, nhưng được Mỹ thần tượng hóa thành thiên thần mũ đỏ.
+/home/osint/speech/data-multispeaker/W2WAnime_1/723456.wav|85|Vì vậy mà nhiều tài xế đã đặt bùa trong xe của họ để tránh gặp ma.
+/home/osint/speech/data-multispeaker/TIN3PHUT/670816.wav|72|Thế nên người này đã bỏ lại bàn tay về chỗ cũ và nhanh chóng rời đi.
+/home/osint/speech/data-multispeaker/PhePhim_2/720494.wav|56|Quận băng cũng yêu cầu vị bác sĩ giết chết Adam trước 6 giờ, nếu không vợ con anh sẽ phải chết.
+/home/osint/speech/data-multispeaker/SachBiQuyetThanhCong/365930.wav|59|Vì vậy, đừng đánh giá thấp người ít nói.
+/home/osint/speech/data-multispeaker/KienThucQuanSu/860595.wav|41|Nhưng đó cũng chỉ là góc nhìn của kỹ thuật quân sự dựa trên thông tin phân tích mà chúng tôi thu thập được.
+/home/osint/speech/data-multispeaker/toansam/877768.wav|74|Không dừng lại ở đó thì người Nhật phù phép cho những quả rưa này bằng cách massage cho chúng.
+/home/osint/speech/data-multispeaker/CDTeam/423272.wav|12|Chỉ hơn một năm trước đó, không phải ai cũng biết Sam Altman.
+/home/osint/speech/data-multispeaker/vais1000/900957.wav|93|ma ở đây không chỉ là cho địa chỉ không đúng với địa chỉ khi đặt hàng
+/home/osint/speech/data-multispeaker/SoiSangBrightSideVietnamese_2/575700.wav|62|Đó là một gợi ý.
+/home/osint/speech/data-multispeaker/gc.gamelab_0/338100.wav|28|Quinafan mặc dù run cầm cập, sợ hãi ra mặt, nhưng vì bài boss triệu like, cô nàng KOL sẵn sàng dấn thân vào nguy hiểm.
+/home/osint/speech/data-multispeaker/HocvienBovaGau_0/589183.wav|37|Và không đạt được danh hiệu nào trong năm cuối cùng tại vị.
+/home/osint/speech/data-multispeaker/caikinhdi_vn_0/694751.wav|10|Việc lật lại một vụ án đã kết thúc phiên tòa là điều gần như không thể.
+/home/osint/speech/data-multispeaker/tamhonanuong_0/775540.wav|67|Thật ra mọi người, sau khi đi làm thì mình cũng đã từng tìm hiểu một người con gái khác.
+/home/osint/speech/data-multispeaker/toansam/228226.wav|74|Và vì sao chúng lại có thể đắt đến như vậy?
+/home/osint/speech/data-multispeaker/visaothenhipodcast/719182.wav|81|Giống như những con voi hay những chú chó nhỏ kia cậu mắc kẹt và chuỗi những sự kiện tiêu cực.
+/home/osint/speech/data-multispeaker/duyluandethuong/454098.wav|25|Và như con Acer Nitro V này nè, nó có đầy đủ hết tất cả những thứ đó.
+/home/osint/speech/data-multispeaker/CoBaBinhDuong/211586.wav|15|Rồi mình rắc một ít dừa.
+/home/osint/speech/data-multispeaker/tranquochuywecommit/756375.wav|75|Cái nội dung kiến thức này.
+/home/osint/speech/data-multispeaker/AnimeRewind.Official/849290.wav|4|Trong tâm lý học, thoái lui là một cơ chế tự vệ của tâm lý.
+/home/osint/speech/data-multispeaker/cosu_0/079748.wav|17|Xoay kỹ hơn một chút bằng kính lúc, ta sẽ tìm thấy được tờ giấy truy ngã của cảnh sát.
+/home/osint/speech/data-multispeaker/W2WMovie_2/514000.wav|89|Ở phòng y tế, Richard ra sức phá cửa nhưng người bên trong thì ra sức chặn cửa.
+/home/osint/speech/data-multispeaker/HocvienBovaGau_0/227781.wav|37|Với những kỹ năng mà ông đã học được ở phim Artco, Walt Disney quyết định tự mở cho mình một cái studio có tên là Laugh-O-Grams.
+/home/osint/speech/data-multispeaker/cosu_1/625367.wav|18|Ngày 3 tháng 6, người chơi vào vai của nhân vật chính, Renya, một cậu bé học sinh tiểu học.
+/home/osint/speech/data-multispeaker/vanhkhuyenle/322904.wav|79|Lưu ý là mình sẽ bắt bột vô trong dầu luôn.
+/home/osint/speech/data-multispeaker/CuThongThai/411580.wav|20|Thì khi đó, thì tiền dễ từ kích cầu Covid, từ cái việc là kích cầu Covid này, từ cái việc là hạn chế nguồn kênh đầu tư này, nó lại càng thúc đẩy người dân mang tiền đến mua chứng khoán và trái phiếu.
+/home/osint/speech/data-multispeaker/haunauday/776292.wav|32|Thế nhưng điều làm chợ Ninh Hạ thật sự nổi tiếng là dù có hơn 150 gian hàng ẩm thực, thì hầu hết các gian đều bán những món khác nhau.
+/home/osint/speech/data-multispeaker/HocvienBovaGau_2/207333.wav|39|Nhưng với một tên tội phạm, thì sẽ không suy nghĩ như thế.
+/home/osint/speech/data-multispeaker/SoiSangBrightSideVietnamese_1/428604.wav|61|Nếu nhìn thấy hai con chim, thì bạn là một người vui vẻ.
+/home/osint/speech/data-multispeaker/BroNub/841552.wav|8|Tôi nhanh chóng tiến vào phòng đầu tiên với đầy các loại khoáng sản, trong đó có giấu những chiếc dương và phân tưởng không ngon lắm.
+/home/osint/speech/data-multispeaker/AnimeRewind.Official/629496.wav|4|Bộ tóc giả Thím Sai bảo vệ lâu nay đã rơi ra ngoài, để lỗ trước đầu hói sáng bóng.
+/home/osint/speech/data-multispeaker/HappyHidari/144071.wav|31|Cái này thì nó sẽ cần 1 cái dụng cụ để đưa cái ghim vô kẹp vào trong giấy.
+/home/osint/speech/data-multispeaker/PhanTichGame/545278.wav|53|Vì nếu nhớ lại thì Jack đã chụp hình nhóm giáo phái, nhưng tại sao không ai tin anh ta.
+/home/osint/speech/data-multispeaker/vais1000/900932.wav|93|và má để lại một phần thịt kho tàu và một ít mỡ làm bánh tét
+/home/osint/speech/data-multispeaker/visaothenhipodcast/109136.wav|81|Đủ các loại quà được vẽ ra, tính tới tính lui bàn ra bàn vào mà mình vẫn không biết nên mua quà gì cho ba mẹ.
+/home/osint/speech/data-multispeaker/ThanhPahm/490297.wav|70|Và để quyết định xem ai là kẻ mạnh nhất thế giới, các quốc gia quyết định sẽ đấm nhau.
+/home/osint/speech/data-multispeaker/chanthienmybachnien/542477.wav|13|Nó sẽ đưa lùa không khí xuống và nó không bị đầy hơi lên trên.
+/home/osint/speech/data-multispeaker/VuTruNguyenThuy/316575.wav|83|Tất cả thông tin chúng ta biết về nền văn minh Atlantis vốn chỉ đến từ những lý thuyết và giả định đơn thuần.
+/home/osint/speech/data-multispeaker/BroNub/508288.wav|8|Lưu ý là ở đây chỉ bán bún đậu mắm tôm, không bán nước mắm.
+/home/osint/speech/data-multispeaker/PhePhim_0/157319.wav|54|Đó là công trình nghiên cứu cả đời của cô, là thành quả của nhiều năm lao động cực khổ.
+/home/osint/speech/data-multispeaker/chanthienmybachnien/816342.wav|13|Xin chào các bạn, chào mừng các bạn đã đến với kênh Trân Thiện Mỹ Bách Niên và ngày hôm nay thì chúng ta sẽ nói về một bệnh lý đó là bệnh ủ tai.
+/home/osint/speech/data-multispeaker/duyluandethuong/517188.wav|25|Và những con điện thoại hiện nay ha, đa số đều không thể đáp ứng được một số cái tác vụ nặng.
+/home/osint/speech/data-multispeaker/haunauday/504829.wav|32|Vậy nên sẽ thật là vô lý nếu như bạn kỳ vọng rằng tất cả mọi người đều thích bạn.
+/home/osint/speech/data-multispeaker/RiwayLegal/152650.wav|57|Trong khi chúng ta chỉ cần ca cứu nhãn hiệu trước.
+/home/osint/speech/data-multispeaker/HappyHidari/125579.wav|31|Cuối mỗi tháng sẽ có một trang review tháng cũ.
+/home/osint/speech/data-multispeaker/Nhantaidaiviet/512569.wav|50|Chuyện này thì tôi giúp được.
+/home/osint/speech/data-multispeaker/TULEMIENTAY/493923.wav|77|Ở nhà mình có cái hộp nào đó thì mình cũng có thể cho vô luôn cũng được nữa.
+/home/osint/speech/data-multispeaker/HocvienBovaGau_1/120235.wav|38|Arthur và Halley chạy thẳng về nhà và bắt tay vào làm chiếc xe trong mơ của riêng mình.
+/home/osint/speech/data-multispeaker/Web5Ngay/580111.wav|90|Và cái bài đó là tràn đầy thông tin và hữu ích.
+/home/osint/speech/data-multispeaker/CosmicWriter/219838.wav|16|Và khi nói đến cái sự nỗ hứng ấy thì nó cũng gợi mình nhớ đến một cái câu chuyện mà mình từng nghe từ anh thợ xăm của mình.
+/home/osint/speech/data-multispeaker/SoiSangBrightSideVietnamese_0/037243.wav|60|Chỉ trong một hoàng hai giây, vần mặt trời phía trên sẽ có màu xanh lụt.
+/home/osint/speech/data-multispeaker/NTNVlogsNguyenThanhNam/782941.wav|52|Tôi không biết là tiền nó cầm cưa vào hay ai cầm cưa mà tự nhiên ở đây có một cái cưa.
+/home/osint/speech/data-multispeaker/5PhutCrypto_0/546168.wav|0|Không con này tăng thì con kia tăng, tổng danh mực lại là được.
+/home/osint/speech/data-multispeaker/5PhutCrypto_0/200370.wav|0|Thứ hai, đó là giao diện thân thiện, dễ dàng sử dụng.
+/home/osint/speech/data-multispeaker/HocEnglishOnline/588866.wav|36|Mà thật ra tiếng Anh a lot of không dịch thẳng ra như vậy, nó sai ngữ pháp.
+/home/osint/speech/data-multispeaker/HocvienBovaGau_1/267944.wav|38|Anh em nhớ like và subscribe để cho chúng mình còn sớm có nút bạc nhé. Cảm ơn anh em nhiều.
+/home/osint/speech/data-multispeaker/TIN3PHUT/574009.wav|72|Ở thành phố kiểm tra gắt vậy chứ dưới quê tôi là vô cho xem hết luôn, bất kể từ già tới trẻ.
+/home/osint/speech/data-multispeaker/W2WHorror_2/007972.wav|88|Liệu đây có phải là Janey khi biến thành sắc sống không nhỉ?
+/home/osint/speech/data-multispeaker/gc.gamelab_1/779697.wav|29|Lần lượt với chiến chỉ, gia tăng hiệu suất phá vỡ điểm yếu nhằm nâng cao hiệu quả lối chơi xoay quanh cô nàng, cũng như là các nhân vật có khả năng tương tự đều được hưởng lợi rất tốt.
+/home/osint/speech/data-multispeaker/PhePhim_1/495428.wav|55|Biết rằng như ý thật lòng yêu hoàng thượng.
+/home/osint/speech/data-multispeaker/KienThucQuanSu/782673.wav|41|Sau khi đọc những thông báo về chuyến công tác của Yamamoto, đôi mắt đô đốc Nimitz sáng lên như khi thợ săn thấy con mồi.
+/home/osint/speech/data-multispeaker/ntcanima/860148.wav|51|Biết đây là thời cơ, tổng bí thư đảng Lê Duẩn quyết định sẽ triển khai kế hoạch đánh nhanh thăng lớn.
+/home/osint/speech/data-multispeaker/RuaNgao/853258.wav|58|Hay lắm đồng đội ơi.
+/home/osint/speech/data-multispeaker/elroydevops/636127.wav|27|Đó cũng chính xác là luồng của dự án.
+/home/osint/speech/data-multispeaker/5PhutCrypto_1/848165.wav|1|Làm giàu có những thứ bạn làm cả đời không được.
+/home/osint/speech/data-multispeaker/baihoc10phut/840693.wav|5|Cảnh sát được huy động vào cuộc và đã bắt được hai nghi phạm là anh An và anh Bình.
+/home/osint/speech/data-multispeaker/MeovatcuocsongLNV/438741.wav|46|Các bạn sẽ để trong 25 phút.
+/home/osint/speech/data-multispeaker/altonghop/642215.wav|2|Đó chính là Tam Thi Trung.
+/home/osint/speech/data-multispeaker/CosmicWriter/136646.wav|16|Và nhân đây thì mình cũng muốn giới thiệu đến với mọi người luôn.
+/home/osint/speech/data-multispeaker/SukiesKitchen/873324.wav|65|Chào các bạn, chào mừng các bạn đến với căn bếp của Suki.
+/home/osint/speech/data-multispeaker/KienThucQuanSu/524135.wav|41|Giờ đây, quốc trưởng đã trở thành kẻ thù không chỉ của thế giới, mà còn với chính nước Đức.
+/home/osint/speech/data-multispeaker/meGAME_Official/672133.wav|44|Minh còn thấy rõ chị Thư đứng trong căn phòng cùng với tấm di ảnh.
+/home/osint/speech/data-multispeaker/thieunhitv3630/175341.wav|71|Bác đẻo thế này không cày được đâu.
+/home/osint/speech/data-multispeaker/Nhantaidaiviet/814248.wav|50|Sáng cũng bừa bộn bao nhiêu rác rồi, con sẽ quét dọn nhà cửa trước khi mẹ bê cơm lên ạ.
+/home/osint/speech/data-multispeaker/duongfg/488242.wav|24|Ví dụ như là bạn có một người bạn thân đi, nó kể về việc đêm qua cây treo quần áo của nó biến thành một con quỷ và đè lên nó trong đêm khiến nó không thở được.
+/home/osint/speech/data-multispeaker/baihoc10phut/217578.wav|5|Điều đó có thể khiến bạn tạo ra những cách làm mới, sáng tạo hơn, thậm chí là mở ra những hướng suy nghĩ mới cho bạn.
+/home/osint/speech/data-multispeaker/Nhantaidaiviet/731458.wav|50|Nhà ngươi cứ bình tĩnh.
+/home/osint/speech/data-multispeaker/SoiSangBrightSideVietnamese_3/321236.wav|63|Sở dĩ chúng có vẻ ngoài lạnh lùng như vậy là do chúng phải thích nghi về áp suất cao ở đây.
+/home/osint/speech/data-multispeaker/tranquochuywecommit/774014.wav|75|Cái điều kiện mà web thỏa mãn first name bằng Nguyễn ấy, thì nó thỏa mãn chiếm 98%.
+/home/osint/speech/data-multispeaker/tamhonanuong_0/216034.wav|67|Ngại lắm luôn á trời.
+/home/osint/speech/data-multispeaker/W2WHorror_2/822196.wav|88|Khả năng cao nhất có thể là Jen bị nhiễm với dịch bệnh sắc sống khi cậu được sinh ra trong thời điểm mà người mẹ Lily trở thành sắc sống.
+/home/osint/speech/data-multispeaker/PhePhim_2/020475.wav|56|Nữ điều tra viên đã tâm sự với Hannibal rằng cô từng sống trong một trang trại và tiếng hét của những con cừu non trước khi vào lò mổ cứ ám ảnh mãi trong tâm trí.
+/home/osint/speech/data-multispeaker/toansam/608428.wav|74|Chỉ có điều khác là những con ốc này quá đỗi nhỏ bé, nước đục khó nhìn thấy đấy, trong khi hạt lại nhỏ khiến việc thu hoạch này rất cần sự kiên trì và phải vo cho bùn thật nhão để lọc lấy hạt.
+/home/osint/speech/data-multispeaker/female/009830.wav|92|tuy nhiên nữ diễn viên vừa đi vừa khóc sống khá kín đáo và chỉ thỉnh thoảng xuất hiện trong các sự kiện hoạt động giải trí
+/home/osint/speech/data-multispeaker/ntcanima/045827.wav|51|Rất nhiều chiến sĩ tiếp tục hy sinh.
+/home/osint/speech/data-multispeaker/female/010803.wav|92|khi hiểu được điều này nghệ sĩ sẽ biết cách điều chỉnh bản thân để không bị rơi vào thế khó
+/home/osint/speech/data-multispeaker/CDTeam/358824.wav|12|Nhân viên của chính phủ Trung Quốc sẽ kiểm soát trung tâm này, bao gồm chiếc chiều khóa để mở dữ liệu.
+/home/osint/speech/data-multispeaker/battlecry.khampha/486515.wav|6|Không những vậy, trong số đó.
+/home/osint/speech/data-multispeaker/SachBiQuyetThanhCong/839740.wav|59|Một hôm, có đám côn đồ chặn Hàn Tín lại cười nhạo.
+/home/osint/speech/data-multispeaker/SoiSangBrightSideVietnamese_2/055394.wav|62|Tuổi thọ của chúng ta được lập trình trong các tế bào.
+/home/osint/speech/data-multispeaker/TULEMIENTAY/275358.wav|77|Mình sử dụng là bắp cải tim, các bạn có thể sử dụng là bắp cải nồi đều được hết.
+/home/osint/speech/data-multispeaker/W2WMovie_2/743141.wav|89|Mang theo tòa rơi cảnh báo qua chân rung kẻ bắt góc mình tới quán ban nơi vụ án hôm trước xảy ra.
+/home/osint/speech/data-multispeaker/caikinhdi_vn_0/210109.wav|10|Thứ 2, nhiều người Trung Quốc trước đây cho rằng lúc còn sống mà chưa lập gia đình là một chuyện vô cùng đáng tiếc.
+/home/osint/speech/data-multispeaker/nguoithanhcong1991_1/813910.wav|49|Những chiếc xe như vậy dựa vào sự kết hợp giữa phần cứng và phần mềm.
+/home/osint/speech/data-multispeaker/vais1000/900411.wav|93|không uống sữa chưa tiệt trùng hay ăn thực phẩm chứa sữa chưa tiệt trùng
+/home/osint/speech/data-multispeaker/VuiVe/516314.wav|82|Nói chung là trên Facebook thì chúng ta khá là dễ nóng giận và đôi khi thì nóng quá.
+/home/osint/speech/data-multispeaker/HIEUROTRONG5PHUT/283622.wav|34|Đầu tiên là video này, một chiếc xe chiến đấu bộ binh BMP-3 của quân đội Nga đang di chuyển dọc theo hàng cây để xạ thẳng hỏa lực vào nơi đó.
+/home/osint/speech/data-multispeaker/visaothenhipodcast/727416.wav|81|Mình không muốn mối quan hệ của mình và bạn ấy dừng lại ở đây.
+/home/osint/speech/data-multispeaker/MeovatcuocsongLNV/623134.wav|46|Thì cành hoa sẽ được phát triển nhiều.
+/home/osint/speech/data-multispeaker/HocEnglishOnline/577046.wav|36|Cái chữ Spoil Brat này không phải dùng cho đứa bé thầy mà người lớn luôn.
+/home/osint/speech/data-multispeaker/HappyHidari/428113.wav|31|Nguyên do có thể là do chúng ta không hiểu được chính bản thân.
+/home/osint/speech/data-multispeaker/SoiSangBrightSideVietnamese_1/083655.wav|61|Có lẽ bạn sẽ hỏi hiện tượng điên rồ này diễn ra như thế nào?
+/home/osint/speech/data-multispeaker/gc.gamelab_2/637301.wav|30|Trên hành tinh Crypogo, người vợ máy móc đã giết chết người chồng chung sống nhiều năm với mình.
+/home/osint/speech/data-multispeaker/SoiSangBrightSideVietnamese_0/199183.wav|60|Chuyện gì đã xảy ra với chồng tôi vậy?
+/home/osint/speech/data-multispeaker/BroNub/578310.wav|8|Ở đây có lồng triệu hồi creeper và các cục pha lê.
+/home/osint/speech/data-multispeaker/tamhonanuong_1/474114.wav|68|Ông ấy bảo vợ anh dễ tính lắm, có mỗi nhà xe là không cho được, chứ anh làm gì cũng được.
+/home/osint/speech/data-multispeaker/NTNVlogsNguyenThanhNam/799413.wav|52|Anh em là cho muối cho rau cho sốt thoải mái tự do.
+/home/osint/speech/data-multispeaker/SoiSangBrightSideVietnamese_1/259503.wav|61|Lý do chính là mặt trăng được khóa hấp dẫn với trái đất.
+/home/osint/speech/data-multispeaker/AnhBanThan/616157.wav|3|Làm cho cái sườn của mình có khả năng nó hơi xém cạnh 1 chút.
+/home/osint/speech/data-multispeaker/SoiSangBrightSideVietnamese_0/621386.wav|60|Tuy nhiên, giống như hầu hết mọi thứ trong cuộc sống, ý tưởng này cũng có một số nhược điểm.
+/home/osint/speech/data-multispeaker/ThanhPahm/123316.wav|70|Người đàn bà và con trồn được vẽ từ năm 1489 đến năm 1491.
+/home/osint/speech/data-multispeaker/CoBaBinhDuong/699216.wav|15|Sau đó mở lửa thật nhỏ và đậy nắp lại.
+/home/osint/speech/data-multispeaker/CuThongThai/369628.wav|20|Tập thể dục để mình tăng cái gì?
+/home/osint/speech/data-multispeaker/CoBaBinhDuong/519886.wav|15|Vớt bánh ra để lên giấy thấm cho ráo dầu nè các bạn.
+/home/osint/speech/data-multispeaker/Xanh24h/386389.wav|91|Dưới mang thay cần được cung cấp đầy đủ thức ăn và nước uống.
+/home/osint/speech/data-multispeaker/VuiVe/150826.wav|82|Trở lại với video thì chỉ số BMI phân loại con người theo cân nặng và chiều cao của họ.
+/home/osint/speech/data-multispeaker/tamhonanuong_1/354881.wav|68|Ôi con gái ngoan của mẹ.
+/home/osint/speech/data-multispeaker/duongfg/563993.wav|24|Và nó sẽ tạo ra một cái vùng nước mà xung quanh sẽ có sát thương dẫn tới cái bot kia sẽ chết nhanh hơn.
+/home/osint/speech/data-multispeaker/gc.gamelab_2/517523.wav|30|Và kết quả ra sao?
+/home/osint/speech/data-multispeaker/KienThucQuanSu/306068.wav|41|Bên cạnh dấu mỏ và khí đốt tự nhiên.
+/home/osint/speech/data-multispeaker/W2WAnime_1/617541.wav|85|Usubuki cũng rời đi ngay sau đó.
+/home/osint/speech/data-multispeaker/W2WAnime_1/648118.wav|85|Rõ ràng là họ đang giấu gì đó.
+/home/osint/speech/data-multispeaker/CosmicWriter/352313.wav|16|Nếu như chỉ nhìn nhận thế giới như thế là vật chất và năng lượng, như là trong một cái góc nhìn duy vật của khoa học hiện đại, thì không có tồn tại một thứ gì được gọi là ý nghĩa ở đây cả.
+/home/osint/speech/data-multispeaker/meGAME_Official/111373.wav|44|Có thể thấy đây là một cặp đôi vô cùng trách nhiệm vì đã nhậu say nếu quyết định bắt xe về nhà để đảm bảo an toàn cho bản thân cũng như người khác.
+/home/osint/speech/data-multispeaker/betterversionvn/198277.wav|7|Đương nhiên, tôi vẫn còn nhiều điều cần học hỏi.
+/home/osint/speech/data-multispeaker/haunauday/337937.wav|32|Số 7, xe ôm ngôn tình.
+/home/osint/speech/data-multispeaker/cungmaivaobep/440521.wav|19|Và Mai sẽ giữ lại là 30ml, chút nữa Mai sẽ cho vào sau.
+/home/osint/speech/data-multispeaker/bumcn/727882.wav|9|Titan Spikerman lắc tay gây sự chú ý với Titan Cameraman và chỉ tay về một hướng.
+/home/osint/speech/data-multispeaker/NTNVlogsNguyenThanhNam/433760.wav|52|Nhưng mà clip này hơi đắt, quá đắt luôn.
+/home/osint/speech/data-multispeaker/AnimeRewind.Official/130280.wav|4|Mặc dù ban đầu cả ba chúng tôi đều hơi bỡ ngỡ, nhưng dần dần tôi cảm thấy việc này lại phù hợp với thói quen lời biếng của mình.
+/home/osint/speech/data-multispeaker/PhePhim_2/878370.wav|56|Hay là khoảnh khắc bóng sáng của Foxy hiện lên chớp nhóng phía cuối hành lang.
+/home/osint/speech/data-multispeaker/toansam/339977.wav|74|Trong khi những cây ngô xanh tươi bị con người truyền nấm sẽ phải sống một cuộc đời không được yên bình, thì đối với những người thực khách, món ngô nấm mốc lại là món ăn rất sạch.
+/home/osint/speech/data-multispeaker/dannytran2375/108765.wav|21|Và hãy nhìn lại xem những cái tiến bộ mà mình đã đạt được, đó là trong 10 năm qua, ông đã sống như một thằng thẻo thế nào, và bây giờ, ông đã cải thiện được bao nhiêu.
+/home/osint/speech/data-multispeaker/HappyHidari/531309.wav|31|Ưu điểm của nó không chỉ nhanh mà nó cho mình không gian để viết việc cần làm trong cái ngày đó dài hơn là các bạn kẻ ô.
+/home/osint/speech/data-multispeaker/toansam/037906.wav|74|Cảm ơn các bạn đã xem hết video và hy vọng các bạn không quên nhấn đăng ký kênh để xem nhiều video thú vị khác về sức khỏe và đời sống nhé.
+/home/osint/speech/data-multispeaker/gc.gamelab_2/882023.wav|30|Trong vô số cổ học quan chức cấp cao của công ty Hành tinh Hòa Bình, rất nhiều phương án được đề xuất để chấm dứt chiến tranh.
+/home/osint/speech/data-multispeaker/kenhCoVan/375952.wav|40|Tùng tué trên chiếu võng.
+/home/osint/speech/data-multispeaker/TIN3PHUT/648597.wav|72|Còn có cả ảnh chụp một góc nhà, kiểu nơi đựng gia vị, nấu đồ ăn, thấy bình yên lắm.
+/home/osint/speech/data-multispeaker/VuiVe/089210.wav|82|Có chuyên môn dạy từ những câu tập đánh vần, đến những câu nói giao tiếp hàng ngày giữa các ngành nghề.
+/home/osint/speech/data-multispeaker/visaothenhipodcast/491362.wav|81|Cũng có giả thiết cho rằng, khi một người chuẩn bị qua đời là bước sang thế giới khác, linh hồn của họ sẽ rút dần khỏi thể xác.
+/home/osint/speech/data-multispeaker/SUCKHOETAMSINH/595320.wav|64|Đó rồi bây giờ chảo nóng hoàn toàn như vầy.
+/home/osint/speech/data-multispeaker/W2WAnime_1/512759.wav|85|Thế giới không bao giờ kết thúc, sau đó nói rằng mình không mua bán gì hết.
+/home/osint/speech/data-multispeaker/W2WMovie_2/409447.wav|89|Chúng tôi sẽ cần tí thông tin cho điều đó đấy.
+/home/osint/speech/data-multispeaker/SUCKHOETAMSINH/085590.wav|64|Cái vỏ bánh bên ngoài nó nứt nứt nhẹ và nó rọt lên á.
+/home/osint/speech/data-multispeaker/gc.gamelab_1/803663.wav|29|Trong số 11 vị quan chấp hành đó, mỗi người đều có một tính cách, nguồn gốc và sức mạnh riêng.
+/home/osint/speech/data-multispeaker/vietnh1009/497148.wav|80|Nếu các bạn là những người theo dõi video của mình thì các bạn sẽ biết là đây không phải lần đầu tiên mình sử dụng framework MediaPie để có thể tạo ra ứng dụng chơi game đua xe mà không cần sử dụng bàn phím.
+/home/osint/speech/data-multispeaker/PhePhim_1/185356.wav|55|Phần phim mới sẽ phải xứng đáng với nhân vật này.
+/home/osint/speech/data-multispeaker/sunhuynpodcast/129669.wav|66|Săn cảm giác là mình được gần với các bạn hơn.
+/home/osint/speech/data-multispeaker/SoiSangBrightSideVietnamese_3/247228.wav|63|Các lỗ nhỏ ở đáy tay nghe cho phép không khí lưu thông lên và đi qua loa.
+/home/osint/speech/data-multispeaker/tamhonanuong_1/361599.wav|68|Chứng kiến gia đình không có sự hạnh phúc trong đó.
+/home/osint/speech/data-multispeaker/NgamRadio/460951.wav|47|Trong khi lưỡi dao bằng vàng phù hợp với một người cao quý như Vô Thạch, thì con dao bằng sát lại có vẻ khó hiểu, vì đây vẫn là thời đại đồ đồng.
+/home/osint/speech/data-multispeaker/MeovatcuocsongLNV/466507.wav|46|Các bạn cho nước vào.
+/home/osint/speech/data-multispeaker/kenhCoVan/237669.wav|40|Làm chịu cái vai ốm gầy.
+/home/osint/speech/data-multispeaker/SachBiQuyetThanhCong/594255.wav|59|Thông minh là vốn quý trời cho.
+/home/osint/speech/data-multispeaker/tamhonanuong_0/839253.wav|67|Chị Hương vừa lắc đầu, vừa quay qua bố mẹ nói.
+/home/osint/speech/data-multispeaker/gc.gamelab_0/723916.wav|28|Skurt cảm nhận được bên trong New Village ngoài quyền năng rồng cổ thì còn có một chút gì đó giống như lời nguyền của thân linh.
+/home/osint/speech/data-multispeaker/cosu_0/106983.wav|17|Hiểu ra sai lầm của mình, ông đã treo thuyền đi cứu con gái.
+/home/osint/speech/data-multispeaker/W2WHorror_2/409916.wav|88|Anh ta còn khẳng định rằng mọi bóng mà xuất hiện trong phim chủ yếu được tạo thông qua các hiệu ứng đặc biệt.
+/home/osint/speech/data-multispeaker/5PhutCrypto_1/433524.wav|1|Jimmy bắt đầu đào Bitcoin bằng chiếc máy tính cũ của mình, kiếm vài chục đô mỗi ngày.
+/home/osint/speech/data-multispeaker/baihoc10phut/019179.wav|5|Câu trả lời là bạn nên chuyển sang ổ cửa còn lại.
+/home/osint/speech/data-multispeaker/cungmaivaobep/552616.wav|19|Rồi ăn cùng với cua kho quẹt này.
+/home/osint/speech/data-multispeaker/duyluandethuong/413374.wav|25|Chất lượng quay đêm và chất lượng camera năm nay cũng là một điểm mà mình cực kỳ hài lòng ở trên S4 Ultra.
+/home/osint/speech/data-multispeaker/AnhBanThan/057584.wav|3|Nhưng mà hôm nay thì mình sẽ thử làm theo cái cách lười hơn một chút.
+/home/osint/speech/data-multispeaker/vietnh1009/339993.wav|80|Trên một tựa game nhiều người chơi.
+/home/osint/speech/data-multispeaker/TuanTienTi2911/249124.wav|76|Đùa vậy thôi, chứ thực sự là nhìn cái thời tiết mà bùn rủn hết cả chân tay ra rồi.
+/home/osint/speech/data-multispeaker/battlecry.khampha/612642.wav|6|Nghiêm trọng hơn, chính quyền Myanmar cũng công khai và chính thức coi người Rohingya là dân tộc không có tổ quốc.
+/home/osint/speech/data-multispeaker/chauanhchao/501062.wav|14|Kiểu ở ngoài có một hàng xếp hàng dài luôn ý mọi người.
+/home/osint/speech/data-multispeaker/PhePhim_1/580438.wav|55|Cha đẻ của loạt phim, cũng là người thù vai chính ở phần 1.
+/home/osint/speech/data-multispeaker/cungmaivaobep/285074.wav|19|Chưa kể những anh chị mà bán tại quán.
+/home/osint/speech/data-multispeaker/gc.gamelab_2/765141.wav|30|My bé.
+/home/osint/speech/data-multispeaker/W2WAnime_0/383928.wav|84|Vì vậy, không thể gọi đây là một bắp quá đà từ phía Kishimoto được.
+/home/osint/speech/data-multispeaker/PhePhim_0/289840.wav|54|Vì Chilton luôn nghe lén mọi cuộc trò chuyện giữa Will và khách đến thăm, nên biết Beverly đang điều tra ai, cái chết của cô rút cuộc cũng khiến gã nhận ra.
+/home/osint/speech/data-multispeaker/nguoithanhcong1991_1/052279.wav|49|Vào mùng 6 Tết năm 2020, khi COVID-19 mới chỉ bắt đầu xuất hiện ở Vũ Hán, ông Trương Gia Bình, chủ tịch của FPT đã ngay lập tức phản ứng.
+/home/osint/speech/data-multispeaker/ducisreal/675926.wav|23|Tôi nghĩ đó là những điều căn bản và tự nhiên mà mỗi cha mẹ nào cũng hiểu được.
+/home/osint/speech/data-multispeaker/cosu_0/247801.wav|17|Cùng để lại ý kiến dưới phần comment nhé.
+/home/osint/speech/data-multispeaker/VuTruNguyenThuy/158244.wav|83|Chúng ta có nên tiếp tục tìm hiểu và giải thích về nó hay chẳng?
+/home/osint/speech/data-multispeaker/chauanhchao/738767.wav|14|Hôm nay mọi người cùng xem một ngày cuối tuần ở New York Chao làm gì nhá.
+/home/osint/speech/data-multispeaker/VuiVe/813096.wav|82|Vì số năng lượng bấy lâu bạn tiêu tốn nghĩ về porn, xem porn, quay tay rồi hồi phục và lập lại thì đều tập trung trong cơ thể bạn và chờ đợi được sử dụng vào những mục đích sâu xa hơn.
+/home/osint/speech/data-multispeaker/W2WHorror_0/034861.wav|86|Càng khám phá sâu vào Event Horizon, họ càng chứng kiến vô vàn hiện tượng kinh hoàng.
+/home/osint/speech/data-multispeaker/chanthienmybachnien/528876.wav|13|Các bạn cần tuân thủ đúng cách.
+/home/osint/speech/data-multispeaker/cosu_1/762728.wav|18|Thực tế thì trò chơi này không khó hiểu, nhưng vì nó đã ra mắt cách đây khá lâu nên câu chuyện của game có phần hơi trên não.
+/home/osint/speech/data-multispeaker/vietnh1009/279218.wav|80|Sau khi đã tạo ra được cái class Point này rồi.
+/home/osint/speech/data-multispeaker/RuaNgao/273667.wav|58|Anh bị tơ bắt rồi anh đi luôn rồi.
+/home/osint/speech/data-multispeaker/HocvienBovaGau_2/404562.wav|39|Ông cho rằng 16 tuổi còn chưa biết đạo hàm là gì, thì làm sao mà làm được một lớn.
+/home/osint/speech/data-multispeaker/betterversionvn/133812.wav|7|Nói một cách khác, tất cả những cấu trúc chi thức được lưu trữ ở trong não bộ của bạn, nó đều là biểu tượng tinh thần của bạn.
+/home/osint/speech/data-multispeaker/cungmaivaobep/200245.wav|19|Mình rửa 1-2 nước cho đến khi mình cảm thấy yên tâm là được ha.
+/home/osint/speech/data-multispeaker/chanthienmybachnien/184463.wav|13|Phế thì chủ về bi, ưu.
+/home/osint/speech/data-multispeaker/TintucBitcoin247/420934.wav|73|Theo Santimon, các nhà đầu tư Bitcoin đã mở tiệc ăn mừng sau khi Bitcoin vừa quảng ngưỡng 52.000 đô la.
+/home/osint/speech/data-multispeaker/betterversionvn/886167.wav|7|Điều này cũng giống như những gì mà mình đã từng nói về voi và người cỡ voi trong video chỉ hoãn mà mình đã từng chia sẻ.
+/home/osint/speech/data-multispeaker/CoBaBinhDuong/790988.wav|15|Mình có đây là 200g đậu.
+/home/osint/speech/data-multispeaker/ThaiNhiTV/121261.wav|69|Mình dùng cái chai xịt nước nè các bạn, xịt sơ sơ lên.
+/home/osint/speech/data-multispeaker/cosu_1/742833.wav|18|Hôm nay tôi vừa mới trở về thì thấy ả ta đang ngồi xem TV.
+/home/osint/speech/data-multispeaker/SoiSangBrightSideVietnamese_3/300329.wav|63|Thực chất thì với lỗ ở giữa, khi nướng hàng loạt, bánh sẽ chín đều.
+/home/osint/speech/data-multispeaker/caikinhdi_vn_1/588747.wav|11|Một cuộc điều tra danh tính lập tức được tiến hành.
+/home/osint/speech/data-multispeaker/ThaiNhiTV/673819.wav|69|Sau khi mình cạo nhớt cũng như mình đánh vẫy và mình lấy hết máu trong bụng con cá cũng như trong hầu và trong mang.
+/home/osint/speech/data-multispeaker/PhePhim_2/866638.wav|56|Để không thua kém những kinh nghiệm mạng nồng của người khác, Andy phải cố bịa ra những hình ảnh tưởng tượng về vấn đề chăn gối mà anh chưa từng trải qua.
+/home/osint/speech/data-multispeaker/txtofficial8798/875056.wav|78|Trời ơi coi, nướng luôn cho rau, đỡ làm gì.
+/home/osint/speech/data-multispeaker/battlecry.khampha/113974.wav|6|Khi chiến tranh hạt nhân đi tới bên bờ vực nhiều con số ước đoán đã khiến Kennedy phải giật mình.
+/home/osint/speech/data-multispeaker/W2WHorror_2/203038.wav|88|Một thứ gì đó có thể sửa chữa mọi thứ.
+/home/osint/speech/data-multispeaker/SachBiQuyetThanhCong/679294.wav|59|Chúng ta cần cảm thấy đồng cảm với những người khác và sẵn sàng giúp đỡ họ trong mọi hoàn cảnh.
+/home/osint/speech/data-multispeaker/ducisreal/217281.wav|23|Tôi cảm thấy mệt mỏi, và đôi mắt của tôi bắt đầu khép lại vì buồn ngủ.
+/home/osint/speech/data-multispeaker/MensBay/346016.wav|45|Còn bây giờ thì chào anh em.
+/home/osint/speech/data-multispeaker/5PhutCrypto_1/096100.wav|1|Tiếp tục ở mục Style, chúng ta sẽ bỏ chọn vào tất cả các ô, trừ 2 ô là MA Base Light và Bar Color để dễ theo dõi hơn.
+/home/osint/speech/data-multispeaker/duongfg/847754.wav|24|Chứ mình không phải quay trở về năm 2075 như hồi xưa nữa.
+/home/osint/speech/data-multispeaker/MangoVid/129962.wav|43|Sau một lúc, các nguyên liệu đã được giả nhiễn xong.
+/home/osint/speech/data-multispeaker/nguoithanhcong1991_1/057187.wav|49|Bạn thân được chia cổ phiếu, trả lương cao.
+/home/osint/speech/data-multispeaker/betterversionvn/005610.wav|7|Có lẽ câu chuyện muốn truyền đạt tới mọi người về cái gọi là khai ngộ.
+/home/osint/speech/data-multispeaker/Nhantaidaiviet/056330.wav|50|Phú bà ơi, có chuyện lớn rồi.
+/home/osint/speech/data-multispeaker/TULEMIENTAY/846344.wav|77|Phần chanh quảng đông này thì mình sẽ cắt lát mỏng ra.
+/home/osint/speech/data-multispeaker/SoiSangBrightSideVietnamese_0/765235.wav|60|Dạ dày thật sự ở trên này, phía sâu xương xương của bạn.
+/home/osint/speech/data-multispeaker/Xanh24h/042704.wav|91|Website là kênh bán hàng online phổ biến nhất.
+/home/osint/speech/data-multispeaker/TULEMIENTAY/097280.wav|77|Đó mình cho 1 ít nhân vô nè.
+/home/osint/speech/data-multispeaker/PhePhim_1/338744.wav|55|Tất nhiên vì sở hữu một nguồn tin chất lượng như tiến trung, Yến Uyển đã thành công làm dấy lên trong lòng Hoàng Thượng mối kiêng kỵ với hài tử của Thư Phi.
+/home/osint/speech/data-multispeaker/LamVlog/693008.wav|42|Nước của mình thì cũng đã sôi rồi.
+/home/osint/speech/data-multispeaker/baihoc10phut/240939.wav|5|Khoảng tiên cậy 95% với giá trị trung bình được tính như sau.
+/home/osint/speech/data-multispeaker/W2WMovie_2/156653.wav|89|Nhưng à Ursula từ đâu ra lại lấp liếm rằng Doris đang lên cơn do chính trầm cảm sau sinh, rồi còn thuyết phục họ rằng cô cần thuốc ăn thần.
+/home/osint/speech/data-multispeaker/W2WMovie_2/636685.wav|89|Cũng đúng thôi, chính vì thái độ rừng rưng từ phía cảnh sát nên hung thủ vẫn nhỏ nhơ lộng hành.
+/home/osint/speech/data-multispeaker/nguoithanhcong1991_0/368662.wav|48|Họ cũng đã mở rộng bộ sưu tập các nhân vật AI kỳ lạ của mình trên Instagram.
+/home/osint/speech/data-multispeaker/W2WAnime_0/164549.wav|84|Tuy nhiên, chúng mình tin rằng.
+/home/osint/speech/data-multispeaker/SukiesKitchen/870787.wav|65|Bánh sau khi nguội hoàn toàn mình sẽ cần để trong hộp thật kín, tránh ẩm để bánh luôn được giòn.
+/home/osint/speech/data-multispeaker/sunhuynpodcast/413300.wav|66|Nếu như các bạn muốn thì đấy cũng là một địa điểm.
+/home/osint/speech/data-multispeaker/thieunhitv3630/294777.wav|71|Nó là chú chim sâu rất có ích đây em ạ.
+/home/osint/speech/data-multispeaker/NTNVlogsNguyenThanhNam/785682.wav|52|Anh em đang nằm trong đây.
