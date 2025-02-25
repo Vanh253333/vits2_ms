@@ -1,5 +1,5 @@
 import argparse
-import text.vietnamese
+import text
 from utils import load_filepaths_and_text
 
 if __name__ == "__main__":

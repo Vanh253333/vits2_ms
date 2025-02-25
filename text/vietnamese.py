@@ -78,7 +78,6 @@ def cleaned_text_to_sequence(cleaned_text):
     return sequence
 
 def _clean_text(text):
-    sequence = []
     text = text.replace('\s+',' ').lower()    
     phon = vi2IPA(text)
     print(phon)
