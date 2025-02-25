@@ -39,7 +39,7 @@ def text_to_sequence(text):
             break
 
     phones = phon[:eol+1]+[" ","."]
-    print(phones)
+    # print(phones)
     phones_id =[]
     for i in phones:
         if i in _symbol_to_id:
@@ -80,7 +80,7 @@ def cleaned_text_to_sequence(cleaned_text):
 def _clean_text(text):
     text = text.replace('\s+',' ').lower()    
     phon = vi2IPA(text)
-    print(phon)
+    # print(phon)
     eol = -1
     for i,p in reversed(list(enumerate(phon))):
         if p not in ["..",""," ",".","  "]:
