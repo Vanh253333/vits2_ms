@@ -10,7 +10,9 @@ _letters_ipa = "ɑɐɒæɓʙβɔɕçɗɖðʤəɘɚɛɜɝɞɟʄɡɠɢʛɦɧħɥʜ
 
 
 # Export all symbols:
-symbols = [_pad] + list(_punctuation) + list(_letters) + list(_letters_ipa)
+# symbols = [_pad] + list(_punctuation) + list(_letters) + list(_letters_ipa)
+from viphoneme import syms, vi2IPA_split, vi2IPA
 
+symbols = syms
 # Special symbol ids
-SPACE_ID = symbols.index(" ")
+# SPACE_ID = symbols.index(" ")
