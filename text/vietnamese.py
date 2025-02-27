@@ -59,15 +59,14 @@ def cleaned_text_to_sequence(cleaned_text):
         List of integers corresponding to the symbols in the text
     '''
     sequence = []
-    phon = vi2IPA_split(cleaned_text,"/")
-    phon = phon.split("/")[1:]
+    phon = cleaned_text.split("/")[1:]
+
     eol = -1
     for i,p in reversed(list(enumerate(phon))):
         if p not in ["..",""," ",".","  "]:
             eol = i
             break
-
-    phones = phon[:eol+1]+[" ","."]
+    phones = phon[:i+1]+[" ","."]
     phones_id =[]
     for i in phones:
         if i in _symbol_to_id:
@@ -77,14 +76,7 @@ def cleaned_text_to_sequence(cleaned_text):
 
     return sequence
 
-def _clean_text(text):
-    text = text.replace('\s+',' ').lower()    
-    phon = vi2IPA(text)
-    # print(phon)
-    eol = -1
-    for i,p in reversed(list(enumerate(phon))):
-        if p not in ["..",""," ",".","  "]:
-            eol = i
-            break
-    phones = phon[:eol+1]+" ."
-    return phones
+def _clean_text(text): 
+    text = text.replace('\s+',' ').lower()
+    phon = vi2IPA_split(text,"/")
+    return phon
