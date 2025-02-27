@@ -12,3 +12,8 @@ tensorboard==2.14.0
 onnx==1.14.1
 onnxruntime==1.15.1
 gradio
+git+https://github.com/v-nhandt21/Vinorm.git
+underthesea
+eng_to_ipa
+vietnam-number
+viphoneme
