@@ -19,7 +19,7 @@ def sequence_to_text(sequence):
             result += _id_to_symbol[symbol_id]     
     return result
 
-def text_to_sequence(text):
+def text_to_sequence(text, cleaner_names):
 
     '''Converts a string of text to a sequence of IDs corresponding to the symbols in the text.
         Args:
