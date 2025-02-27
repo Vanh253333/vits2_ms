@@ -66,7 +66,7 @@ def cleaned_text_to_sequence(cleaned_text):
         if p not in ["..",""," ",".","  "]:
             eol = i
             break
-    phones = phon[:i+1]+[" ","."]
+    phones = phon[:eol+1]+[" ","."]
     phones_id =[]
     for i in phones:
         if i in _symbol_to_id:
